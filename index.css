@@ -1,0 +1,24 @@
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: black;
+}
+
+div{
+    border: 30px solid orange;
+    margin: 600px;
+    margin-top: 50px;
+}
+
+p{
+    
+    background-color: black;
+    color: brown;
+    font-size: 50px;
+    text-align: center;
+    
+    
+}
+.main{
+    align-content: center;
+}
